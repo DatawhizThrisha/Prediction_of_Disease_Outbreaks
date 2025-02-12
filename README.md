@@ -58,5 +58,5 @@ The project is deployed on **Streamlit Cloud** and can be accessed at:
 - Deploying a more scalable backend with Flask/Django.
 
 ## Author
-👩‍💻 **Thrisha** - [GitHub Profile](https://github.com/your-username)
+👩‍💻 **Thrisha** - [GitHub Profile]((https://github.com/DatawhizThrisha))
 
