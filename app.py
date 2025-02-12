@@ -2,11 +2,11 @@ import streamlit as st
 import pickle
 import numpy as np
 import time
-with open('diabetes_model.pkl',"rb") as file:
+with open('/mount/src/prediction_of_disease_outbreaks/diabetes_model.pkl',"rb") as file:
     dia_model=pickle.load(file)
-with open('heart_disease_model.pkl',"rb") as file:
+with open('/mount/src/prediction_of_disease_outbreaks/heart_disease_model.pkl',"rb") as file:
     heart_model=pickle.load(file)
-with open('parkinsons_model.pkl',"rb") as file:
+with open('/mount/src/prediction_of_disease_outbreaks/parkinsons_model.pkl',"rb") as file:
     park_model=pickle.load(file)
 st.set_page_config(
     page_title="Heart Disease Prediction",
