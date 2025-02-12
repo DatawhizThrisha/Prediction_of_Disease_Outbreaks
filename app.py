@@ -2,6 +2,8 @@ import streamlit as st
 import pickle
 import numpy as np
 import time
+import os
+os.system("pip install -r /mount/src/prediction_of_disease_outbreaks/requirements.txt")
 with open('/mount/src/prediction_of_disease_outbreaks/diabetes_model.pkl',"rb") as file:
     dia_model=pickle.load(file)
 with open('/mount/src/prediction_of_disease_outbreaks/heart_disease_model.pkl',"rb") as file:
