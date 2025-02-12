@@ -19,8 +19,8 @@ The **Disease Outbreaks Prediction** project is a Machine Learning-based applica
 ## Installation
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/disease-outbreaks-prediction.git
-cd disease-outbreaks-prediction
+git clone https://github.com/your-username/disease-outbreaks-prediction.git](https://github.com/DatawhizThrisha/Prediction_of_Disease_Outbreaks.git
+cd Prediction_of_Disease_Outbreaks
 ```
 
 ### Step 2: Install Dependencies
